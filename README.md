@@ -8,6 +8,4 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on ... project on python + django
 - 🌱 I’m currently learning ... Data Structures and Algorithms
 - 👯 I’m looking to collaborate on ... some open source projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - ⚡ Fun fact: ... I am good at painting and sketching
