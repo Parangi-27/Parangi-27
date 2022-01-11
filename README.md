@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I am passionate about sketching and painting**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Reach me at:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/parangi-rathod-521001209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parangi-rathod-521001209" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/parangi_27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="parangi_27" height="30" width="40" /></a>
