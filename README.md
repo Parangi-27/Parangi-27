@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **some open source projects**
 
-- ⚡ Fun fact **I am passionate on sketching and painting**
+- ⚡ Fun fact **I am passionate about sketching and painting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
