@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, here I'm Parangi</h1>
 
-- 🔭 I’m currently working on **Ecommerce project named "Mini Mart" 
+- 🔭 I’m currently working on **Ecommerce** project named **"Mini Mart"**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
