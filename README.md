@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, here I'm Parangi</h1>
 
-- 🔭 I’m currently working on **Ecommerce** project named **"Mini Mart"**
-
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **some open source projects**
 
-- ⚡ Fun fact **I am passionate about sketching and painting**
+- ⚡ Fun fact **I am passionate for Art**
 
 <h3 align="left">Reach out to me:</h3>
 <p align="left">
