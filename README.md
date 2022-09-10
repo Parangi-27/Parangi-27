@@ -1,4 +1,8 @@
-## 💫 About Me:
+![2](https://user-images.githubusercontent.com/82773925/189501067-39a19033-4207-4792-8055-b7e66bda1167.png)
+
+I'm a computer science and engineering student in my third year at Dharmsinh Desai University in Nadiad. Learning new technology is very exciting for me. Exploring different innovations are really lift my spirits.
+
+## 💫More about Me:
 🔭 I’m currently working on some important projects<br>👯 I’m looking to collaborate on some open source contributions<br>🤝 I’m looking for help with Summer Internship<br>🌱 I’m currently brushing up my DSA skills and CP <br>⚡ Fun fact I'm Graphic Designer and passionate about Art<br>
 
 
