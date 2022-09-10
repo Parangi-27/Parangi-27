@@ -5,7 +5,10 @@
 - 👯 I’m looking to collaborate on **some open source projects**
 
 - ⚡ Fun fact **I am passionate for Art**
-
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 <h3 align="left">Reach out to me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/parangi-rathod-521001209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parangi-rathod-521001209" height="30" width="40" /></a>
