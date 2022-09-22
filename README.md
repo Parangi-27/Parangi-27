@@ -4,7 +4,7 @@
 I'm a 3rd year Computer Science student at Dharmsinh Desai University, Nadiad. I enjoy learning new technologies a lot. Exploring different innovations are really lift my spirits.
 
 ## 💫More about Me:
-🔭 I’m currently working on some important projects<br>👯 I’m looking to collaborate on some open source contributions<br>🤝 I’m looking for help with Summer Internship<br>🌱 I’m currently brushing up my DSA skills and CP <br>⚡ Fun fact I'm Graphic Designer and passionate about Art<br>
+🔭 I’m currently working on React and Flutter Project<br>👯 I’m looking to collaborate on some open source contributions<br>🤝 I’m looking for Summer Internship<br>🌱 I’m currently brushing up my DSA skills and CP <br>⚡ Fun fact I'm Graphic Designer and passionate about Art<br>
 
 
 ## 🌐 Socials:
